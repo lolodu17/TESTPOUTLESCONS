@@ -1,7 +1,7 @@
 const Discord = require("Discord.js")
 const bot = new Discord.client()
 
-bot.on("ready" function(){
+bot.on("ready", function(){
   console.log("Coucou")
 })
 
