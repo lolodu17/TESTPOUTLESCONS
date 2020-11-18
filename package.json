@@ -1,0 +1,19 @@
+{
+  "name": "BetterBot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": ""
+  },
+  "author": "Octokling.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "MIT"
+  }
+}
